@@ -1,4 +1,4 @@
-<h1 align="center">Geopandas</h1>
+<h1 align="center">Geopandas 🐼</h1>
 
 
 ## 📇 Índice
@@ -13,7 +13,7 @@
 O projeto **learning-geopandas** foi criado dentro do curso **"<a href="https://cursos.alura.com.br/course/geopandas-dados-geoespaciais">GeoPandas Parte 1: Trabalhando com dados Geoespaciais</a>"** com o intuito de colocar em prática todo o conteúdo estudado durante o curso.
 
 ---
-## 🚀 Tecnologia
+## 🚀 Tecnologias
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
